@@ -25,7 +25,7 @@ export default class EditOrder extends Component {
   async componentDidMount() {
  
     try{
-            const response = await axios.get("/rosy_api/v1/orders/"+this.props.match.params.id)
+            const response = await axios.get("https://cors-anywhere.herokuapp.com/https://spring-gift-store.herokuapp.com//rosy_api/v1/orders/"+this.props.match.params.id)
             console.log(response.data.price);
             this.setState({
             price: response.data.price,
