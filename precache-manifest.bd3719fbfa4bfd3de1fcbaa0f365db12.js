@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dc3fe77b8c22c5ee3d3a325abd487bc9",
+    "revision": "4b7857dd6c86c68bd4827c159aa69f52",
     "url": "/giftstore-ghpages/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/giftstore-ghpages/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "589a936a0733b16d84a1",
+    "revision": "4ef6d73b20ba49e41d67",
     "url": "/giftstore-ghpages/static/css/main.048a49c6.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/giftstore-ghpages/static/js/2.a31a58df.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "589a936a0733b16d84a1",
-    "url": "/giftstore-ghpages/static/js/main.727d3ffb.chunk.js"
+    "revision": "4ef6d73b20ba49e41d67",
+    "url": "/giftstore-ghpages/static/js/main.d5ab9779.chunk.js"
   },
   {
     "revision": "13d9ea145d82a6e6e8a3",
