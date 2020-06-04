@@ -20,7 +20,7 @@ import ThankYou from  './components/ThankYou'
 
 function App() {
   return (
-    <Router  basename='/'>
+    <Router  basename={process.env.PUBLIC_URL}>
        <div>
          <Navigation/>
          <Switch>
