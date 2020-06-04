@@ -9,7 +9,7 @@ import '../styles/_Navigation.scss'
 export default function Navigation() {
     return (
 
-        <Router  basename='/giftstore-ghpages'>
+        <Router>
 
         <div className="route-container">
            
