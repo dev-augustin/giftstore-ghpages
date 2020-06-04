@@ -26,9 +26,9 @@ export default function Navigation() {
                     
                  <NavDropdown title="Products" id="basic-nav-dropdown">
                       
-                        <NavDropdown.Item href="/giftBasket/3.1">Gift Baskets</NavDropdown.Item>
-                        <NavDropdown.Item href="/flowers/3.2">Flowers</NavDropdown.Item> 
-                         <NavDropdown.Item href="/partySupplies/3.3">Party Supplies</NavDropdown.Item>
+                        <NavDropdown.Item href="https://dev-augustin.github.io/giftstore-ghpages/#/giftBasket/3.1">Gift Baskets</NavDropdown.Item>
+                        <NavDropdown.Item href="https://dev-augustin.github.io/giftstore-ghpages/#/flowers/3.2">Flowers</NavDropdown.Item> 
+                         <NavDropdown.Item href="https://dev-augustin.github.io/giftstore-ghpages/#/partySupplies/3.3">Party Supplies</NavDropdown.Item>
                     </NavDropdown>     
                     <Nav.Link href="/myCart">My Cart</Nav.Link>
                     <Nav.Link href="/myProfile">Order Summary</Nav.Link>
