@@ -20,7 +20,7 @@ import ThankYou from  './components/ThankYou'
 
 function App() {
   return (
-    <Router>
+    <Router basename='/'>
        <div>
          <Navigation/>
          <Switch>
