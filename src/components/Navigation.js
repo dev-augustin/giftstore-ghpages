@@ -9,7 +9,7 @@ import '../styles/_Navigation.scss'
 export default function Navigation() {
     return (
 
-        <Router  basename={process.env.PUBLIC_URL}>
+        <Router  basename='/giftstore-ghpages'>
 
         <div className="route-container">
            
