@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/giftstore-ghpages/static/css/main.048a49c6.chunk.css",
-    "main.js": "/giftstore-ghpages/static/js/main.01818bb2.chunk.js",
-    "main.js.map": "/giftstore-ghpages/static/js/main.01818bb2.chunk.js.map",
+    "main.js": "/giftstore-ghpages/static/js/main.e060024e.chunk.js",
+    "main.js.map": "/giftstore-ghpages/static/js/main.e060024e.chunk.js.map",
     "runtime-main.js": "/giftstore-ghpages/static/js/runtime-main.bc0a53ee.js",
     "runtime-main.js.map": "/giftstore-ghpages/static/js/runtime-main.bc0a53ee.js.map",
     "static/css/2.af3c1da9.chunk.css": "/giftstore-ghpages/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.322af626.chunk.js": "/giftstore-ghpages/static/js/2.322af626.chunk.js",
-    "static/js/2.322af626.chunk.js.map": "/giftstore-ghpages/static/js/2.322af626.chunk.js.map",
+    "static/js/2.9fa7d78f.chunk.js": "/giftstore-ghpages/static/js/2.9fa7d78f.chunk.js",
+    "static/js/2.9fa7d78f.chunk.js.map": "/giftstore-ghpages/static/js/2.9fa7d78f.chunk.js.map",
     "index.html": "/giftstore-ghpages/index.html",
-    "precache-manifest.86df997b3512013a0c6392ff9772b25e.js": "/giftstore-ghpages/precache-manifest.86df997b3512013a0c6392ff9772b25e.js",
+    "precache-manifest.711d458bdd492dfac5435f055b6b0471.js": "/giftstore-ghpages/precache-manifest.711d458bdd492dfac5435f055b6b0471.js",
     "service-worker.js": "/giftstore-ghpages/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/giftstore-ghpages/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.048a49c6.chunk.css.map": "/giftstore-ghpages/static/css/main.048a49c6.chunk.css.map",
-    "static/js/2.322af626.chunk.js.LICENSE.txt": "/giftstore-ghpages/static/js/2.322af626.chunk.js.LICENSE.txt",
+    "static/js/2.9fa7d78f.chunk.js.LICENSE.txt": "/giftstore-ghpages/static/js/2.9fa7d78f.chunk.js.LICENSE.txt",
     "static/media/birthday-table.jpeg": "/giftstore-ghpages/static/media/birthday-table.52d5edd1.jpeg",
     "static/media/biscuits.jpeg": "/giftstore-ghpages/static/media/biscuits.d4b56f62.jpeg",
     "static/media/flowers.jpeg": "/giftstore-ghpages/static/media/flowers.d8b99629.jpeg"
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.bc0a53ee.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.322af626.chunk.js",
+    "static/js/2.9fa7d78f.chunk.js",
     "static/css/main.048a49c6.chunk.css",
-    "static/js/main.01818bb2.chunk.js"
+    "static/js/main.e060024e.chunk.js"
   ]
 }
