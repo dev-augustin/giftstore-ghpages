@@ -9,7 +9,7 @@ import '../styles/_Navigation.scss'
 export default function Navigation() {
     return (
 
-        <Router>
+        <Router  basename={process.env.PUBLIC_URL}>
 
         <div className="route-container">
            
