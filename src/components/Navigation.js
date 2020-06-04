@@ -21,7 +21,7 @@ export default function Navigation() {
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="mr-auto" id="nav">
-                    <Nav.Link href="/">Home</Nav.Link> 
+                    <Nav.Link href="https://dev-augustin.github.io/giftstore-ghpages/#/">Home</Nav.Link> 
 
                     
                  <NavDropdown title="Products" id="basic-nav-dropdown">
