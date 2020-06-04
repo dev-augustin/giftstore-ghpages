@@ -30,9 +30,9 @@ export default function Navigation() {
                         <NavDropdown.Item href="https://dev-augustin.github.io/giftstore-ghpages/#/flowers/3.2">Flowers</NavDropdown.Item> 
                          <NavDropdown.Item href="https://dev-augustin.github.io/giftstore-ghpages/#/partySupplies/3.3">Party Supplies</NavDropdown.Item>
                     </NavDropdown>     
-                    <Nav.Link href="/myCart">My Cart</Nav.Link>
-                    <Nav.Link href="/myProfile">Order Summary</Nav.Link>
-                    <Nav.Link href="/contact">Contact</Nav.Link>
+                    <Nav.Link href="https://dev-augustin.github.io/giftstore-ghpages/#/myCart">My Cart</Nav.Link>
+                    <Nav.Link href="https://dev-augustin.github.io/giftstore-ghpages/#/myProfile">Order Summary</Nav.Link>
+                    <Nav.Link href="https://dev-augustin.github.io/giftstore-ghpages/#/contact">Contact</Nav.Link>
                   </Nav> 
                   </Navbar.Collapse>
             
