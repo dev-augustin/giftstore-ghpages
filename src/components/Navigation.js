@@ -2,7 +2,7 @@
 import React from 'react';
  import 'bootstrap/dist/css/bootstrap.min.css'
 import {Navbar, Nav, NavDropdown } from 'react-bootstrap'
-import {Link, BrowserRouter as Router} from 'react-router-dom'
+import {Link, HashRouter as Router} from 'react-router-dom'
 import '../styles/_Navigation.scss'
 
 
