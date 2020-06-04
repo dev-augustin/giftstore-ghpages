@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/giftstore-ghpages/static/css/main.048a49c6.chunk.css",
-    "main.js": "/giftstore-ghpages/static/js/main.ca6b164e.chunk.js",
-    "main.js.map": "/giftstore-ghpages/static/js/main.ca6b164e.chunk.js.map",
+    "main.js": "/giftstore-ghpages/static/js/main.124bac4d.chunk.js",
+    "main.js.map": "/giftstore-ghpages/static/js/main.124bac4d.chunk.js.map",
     "runtime-main.js": "/giftstore-ghpages/static/js/runtime-main.bc0a53ee.js",
     "runtime-main.js.map": "/giftstore-ghpages/static/js/runtime-main.bc0a53ee.js.map",
     "static/css/2.af3c1da9.chunk.css": "/giftstore-ghpages/static/css/2.af3c1da9.chunk.css",
     "static/js/2.9fa7d78f.chunk.js": "/giftstore-ghpages/static/js/2.9fa7d78f.chunk.js",
     "static/js/2.9fa7d78f.chunk.js.map": "/giftstore-ghpages/static/js/2.9fa7d78f.chunk.js.map",
     "index.html": "/giftstore-ghpages/index.html",
-    "precache-manifest.ecb734aa8bbb31245843559a53412d0a.js": "/giftstore-ghpages/precache-manifest.ecb734aa8bbb31245843559a53412d0a.js",
+    "precache-manifest.495b7b8e532e01ad740bf4fa5f6e453c.js": "/giftstore-ghpages/precache-manifest.495b7b8e532e01ad740bf4fa5f6e453c.js",
     "service-worker.js": "/giftstore-ghpages/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/giftstore-ghpages/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.048a49c6.chunk.css.map": "/giftstore-ghpages/static/css/main.048a49c6.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.9fa7d78f.chunk.js",
     "static/css/main.048a49c6.chunk.css",
-    "static/js/main.ca6b164e.chunk.js"
+    "static/js/main.124bac4d.chunk.js"
   ]
 }
