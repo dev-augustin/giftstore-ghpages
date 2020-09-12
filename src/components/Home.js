@@ -26,15 +26,15 @@ export default function Home() {
                       
                 <Link to='/partySupplies/3.3'className="link"><p className="captions">party Supplies</p></Link>
                 </div>
-       <div>
-          <img style={{'height':"400px" , 'width': "250px"}} 
+//        <div>
+//           <img style={{'height':"400px" , 'width': "250px"}} 
                 
-                src={biscuits} 
-                alt="slide"  
-                />  
-                  <Link to='/giftBasket/3.1' className="link"><p>amazon special gift baskets</p></Link>
+//                 src={biscuits} 
+//                 alt="slide"  
+//                 />  
+//                   <Link to='/giftBasket/3.1' className="link"><p>amazon special gift baskets</p></Link>
       
-      </div>
+//       </div>
 
         </div>
      
